@@ -23,7 +23,7 @@ a {
 #fork img{
     height: 25px;
     margin-bottom: 25px;
-    filter: invert(1);
+
 }
 
 #sep {
@@ -35,12 +35,12 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: lightgreen;
     color: #555555;
 }
 
 .bg-2 {
-    background-color: olive; 
+    background-color: lightgreen;
     color: #ffffff;
 }
 
@@ -54,12 +54,12 @@ a {
 }
 
 .bg-3 {
-    background-color: black; 
+    background-color: black;
     color: #ffffff;
 }
 
 .bg-4 {
-    background-color: tan; 
+    background-color: lightgreen;
     color: #fff;
 }
 
